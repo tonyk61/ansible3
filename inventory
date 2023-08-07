@@ -1,7 +1,7 @@
-192.168.50.70
-192.168.50.71
-192.168.50.72
-192.168.50.73
-192.168.50.74
-192.168.50.75
+192.168.50.70 apache_package=apache2 php_package=libapache2-mod-php
+192.168.50.71 apache_package=apache2 php_package=libapache2-mod-php
+192.168.50.72 apache_package=apache2 php_package=libapache2-mod-php
+192.168.50.73 apache_package=apache2 php_package=libapache2-mod-php
+192.168.50.74 apache_package=apache2 php_package=libapache2-mod-php
+192.168.50.75 apache_package=apache2 php_package=libapache2-mod-php
 
